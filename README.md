@@ -22,7 +22,21 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-![Dashboard](screenshots/dashboard.png)
+### Dashboard Overview
+
+![Dashboard View 1](dashboard_1.png)
+
+![Dashboard View 2](dashboard_2.png)
+
+### Dashboard Overview
+
+![Dashboard View 1](dashboard_1.png)
+
+![Dashboard View 2](dashboard_2.png)
+
+![Dashboard View 3](dashboard_3.png)
+
+![Dashboard View 3](dashboard_4.png)
 
 ## Author
 Mohammad Sajid | [LinkedIn](https://www.linkedin.com/in/mohammad-sajid-da)
